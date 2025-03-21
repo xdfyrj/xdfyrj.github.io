@@ -7,7 +7,6 @@ Nickname: `tldw`(1st), `xdfyrj`(2nd)
 
 ::github{repo="xdfyrj/xdfyrj"}
 
-
 ## Contacts
 
 - Discord: `sumyr`
