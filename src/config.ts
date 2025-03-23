@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
     {
       src: '/favicon/Hiro.png',    // Path of the favicon, relative to the /public directory
       theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-      sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+      sizes: '750x750',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
     }
   ]
 }
@@ -61,7 +61,7 @@ export const profileConfig: ProfileConfig = {
   bio: 'too long, didn\'t write.',
   links: [
     {
-      name: 'insta',
+      name: 'instagram',
       icon: 'fa6-brands:instagram',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
