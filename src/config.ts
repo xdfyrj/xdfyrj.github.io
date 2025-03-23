@@ -61,11 +61,11 @@ export const profileConfig: ProfileConfig = {
   bio: 'too long, didn\'t write.',
   links: [
     {
-      name: 'Notion',
-      icon: 'radix-icons:notion-logo',       // Visit https://icones.js.org/ for icon codes
+      name: 'insta',
+      icon: 'fa6-brands:instagram',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4',
+      url: 'https://instagram.com/xdfyrj',
     },
     {
       name: 'GitHub',
