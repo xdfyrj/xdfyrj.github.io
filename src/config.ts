@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
       name: 'Dreamhack',
       url: 'https://dreamhack.io/users/58642',
       external: true,
-    },
+    }
   ],
 }
 
