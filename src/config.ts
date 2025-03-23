@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'xdfyrj',
+  title: 'XDFYRJ',
   subtitle: 'Blog',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
@@ -43,14 +43,9 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'Me',
+      name: 'About Me',
       url: 'https://solo.to/tldw',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
-    },
-    {
-      name: 'Dreamhack',
-      url: 'https://dreamhack.io/users/58642',
-      external: true,
     },
   ],
 }
@@ -61,11 +56,11 @@ export const profileConfig: ProfileConfig = {
   bio: 'too long, didn\'t write.',
   links: [
     {
-      name: 'Instagram',
-      icon: 'line-md:instagram',       // Visit https://icones.js.org/ for icon codes
+      name: 'Dreamhack',
+      icon: 'material-symbols:cloud',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://www.instagram.com/xdfyrj/',
+      url: 'https://dreamhack.io/users/58642',
     },
     {
       name: 'GitHub',
