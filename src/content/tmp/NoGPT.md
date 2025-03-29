@@ -2,7 +2,7 @@
 title: GPT Disable Challenge
 published: 2025-03-13
 description: "Don't use GPT in reversing"
-tags: ["rev", "thinking", GPT]
+tags: ["rev", "thinking", "GPT"]
 category: Reversing
 draft: false
 ---
