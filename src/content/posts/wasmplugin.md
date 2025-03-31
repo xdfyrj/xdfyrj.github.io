@@ -49,10 +49,11 @@ Ghidra, Ghidra wasm plugin을 모두 다운 받았다면 이제 적용을 시킬
 
 다음과 같은 구조로 적용하면 된다.
 
-1. Ghidra_11.2_PUBLIC_20240926/Extensions/Ghidra로 이동한다.
-2. 폴더 안에 wasm plugin zip 파일을 통째로 넣는다.
-3. 끝
+- Ghidra를 켠 후 File - Install Extensions...를 누른다.
+- Install Extensions 창의 우측 상단의 `+` 모양의 버튼을 누른다.
+- wasm plugin zip 파일을 선택하고 ok를 눌러준다.
 
+그러면 설치 끝~!   
 버전만 잘 맞추면 어려울게 없다.
 
 :::note
