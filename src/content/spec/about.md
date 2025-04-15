@@ -4,7 +4,7 @@ Hi! I'm Yeoreum Kim.
 I do reversing. I love computers.   
 That's all.
 
-Nickname: `tldw`(1st), `xdfyrj`(2nd)
+Nickname: `xdfyrj`(1st), `tldw`(2nd)
 
 ::github{repo="xdfyrj/xdfyrj"}
 
