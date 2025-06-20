@@ -64,6 +64,28 @@ lambda arguments : expression
 
 람다의 진가는 다른 함수 안에 들어가 있을 때 나온다.
 
+```py
+def myfunc(n):
+  return lambda a : a * n
+
+mydoubler = myfunc(2)
+
+print(mydoubler(11))
+```
+```py
+def myfunc(n):
+  return lambda a : a * n
+
+mytripler = myfunc(3)
+
+print(mytripler(11))
+```
+
+위와 같이 함수 상태 자체를 저장해둔다면 더욱 강력한 코딩이 가능하다.
+
+그리고 이것이 바로 CPS이다.
+
+
 # What is meaning of CPSython??
 
 문제를 처음 본 순간부터 **CPSython**의 뜻이 무엇인지 궁금했다.  
