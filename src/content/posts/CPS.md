@@ -1,7 +1,7 @@
 ---
 title: About Continuation-Passing Style
-published: 2024-05-01
-updated: 2024-11-29
+published: 2025-06-20
+updated: 2025-06-20
 description: ''
 image: ''
 tags: [rev, research, CPS, Python]
