@@ -2,7 +2,7 @@
 title: About Continuation-Passing Style
 published: 2025-06-20
 updated: 2025-06-20
-description: ''
+description: 'CPS is so hard'
 image: ''
 tags: [rev, research, CPS, Python]
 category: 'Reversing'
