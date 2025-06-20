@@ -15,7 +15,7 @@ Python에서 `Lambda` 함수는 타 함수에 비해 사용하기 까다롭다.
 
 항상 Python에서 `lambda` 함수를 사용한 문법이 나오면 코드를 이해할 때 `lambda`의 기능이 직관적으로 뇌에 들어오지 않아 궁금증을 자아냈다.
 
-이러한 이유도 있고, 드림핵의 [CPSython](https://dreamhack.io/wargame/challenges/694) 문제가 재밌게 생겨서 GPT 없이 완벽하게 자력으로 이해해보고자 이 글을 작성한다.
+이러한 이유도 있고, 드림핵의 [CPSython](https://dreamhack.io/wargame/challenges/694) 문제가 재밌게 생겨서 보다 깊게 이해해보고자 이 글을 작성한다.
 
 :::warning 
 이 글은 CPSython을 풀이하며 작성한 글입니다. 짜임새가 없어도 이해해주시면 감사하겠습니다. 최대한 이해하기 쉽게 작성하도록 노력하고 있습니다.
@@ -25,12 +25,6 @@ Python에서 `Lambda` 함수는 타 함수에 비해 사용하기 까다롭다.
 CPSython을 풀어보고 이 글을 읽는 것을 추천 드립니다.   
 아니면 CPS 관련 공부 자료만 보시는 것을 권장 드립니다.
 :::
-
-# Index
-
-- 람다란?
-- 람다를 사용하는 이유
-- CPS란?
 
 # What is `Python Lambda`?
 
