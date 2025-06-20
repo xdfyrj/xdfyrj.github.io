@@ -46,8 +46,8 @@ export const navBarConfig: NavBarConfig = {
       external: true,                               // Show an external link icon and will open in a new tab
     },
     {
-      name: 'Dreamhack',
-      url: 'https://dreamhack.io/users/58642',
+      name: '/',
+      url: '127.0.0.1:5000',
       external: true,
     }
   ],

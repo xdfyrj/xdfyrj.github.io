@@ -18,7 +18,3 @@ draft: false
 
 위와 같은 이유로 나는 **GPT를 사용 안하고 리버싱을 연습**해보려고 한다.
 
-# Dance in the Light
-
-드림핵에 [Dance in the Light](https://dreamhack.io/wargame/challenges/1598)라는 문제가 있다.
-처음엔 GPT를 갑자기 쓰지 않는 것이 어려울 수 있으니 드림핵 4단계부터 차근차근 풀어나가려고 한다.
